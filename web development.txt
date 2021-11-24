@@ -1,0 +1,149 @@
+Front end 
+
+Welcome on Start with HTML5/CSS3 & Bootstrap, a course for absolute beginners in HTML & CSS!
+
+You are a fresh new developer and you would like to learn how to code? Or you just want to understand HTML/CSS? So this lesson is made for you.
+
+In this course, we'll learn slowly how to start coding. We'll take time to explain how HTML and CSS are working by creating our own blog. What an amazing purpose! Step by step, this is what we are going to learn:
+
+Install our code editor,
+
+Learn how to use it,
+
+Create our first HTML file,
+
+Write our first HTML lines,
+
+Display elements such as title, text, images & videos,
+
+Linking HTML pages,
+
+Understand website architecture,
+
+Stylising our pages with CSS,
+
+Importing font families,
+
+Install and understand Bootstrap,
+
+Designing our entire blog with Bootstrap.
+
+What is Bootstrap and why?
+
+Bootstrap is the most popular CSS Framework for developing responsive and mobile-first websites. It is a tool that is going to help us to create elements and design really fast! I want to show you how powerful is Bootstrap and how much time you can save with this amazing CSS framework.
+
+What you’ll learn
+
+Create your own blog with HTML/CSS and Bootstrap
+Code your first HTML file
+Code your first CSS stylesheet
+Architecture of a website
+Link HTML pages between each other
+Insert text, images and videos
+Import Bootstrap and deal with grids and classes
+Create a custom font with Google Fonts
+Are there any course requirements or prerequisites?
+none
+
+      							Full stack
+
+
+Requirements
+No Programming experience required.
+A Mac or Pc with access to the internet
+Description
+A full stack developer is a web developer or engineer who can develop both the front end and back end of a website or application.
+
+They can tackle projects that involve databases, building user-facing websites, or even work with clients during the planning phase of projects.
+
+Full stack web developers usually have some of the following  front end and back end skill sets.
+
+
+
+Front End Skills ( This is used to build the client software or application)
+
+HTML
+
+CSS
+
+Bootstrap
+
+JavaScript
+
+JSON
+
+XML
+
+JQuery
+
+Angular
+
+React
+
+
+
+Back End Skills ( This is used to build the server software or application)
+
+Nodejs
+
+Expressjs
+
+REST
+
+SQL
+
+MongoDB
+
+Python
+
+Java
+
+C#
+
+ASP
+
+PHP
+
+RUBY
+
+C++
+
+
+
+
+
+Being a full-stack web developer equips you with the skill set to develop web based projects. You can prototype quickly and switch between front and back end  development based on requirements.
+
+
+
+
+
+Who this course is for:
+Beginners to web development
+Beginners to coding and programming
+Students who want to build applications for the web .
+
+
+
+Ethical Course
+Basic
+computer security basics
+introduction
+types ogf hacker
+common keywords
+file securing techniques
+installing n using kali linux
+if person is using windows then how to operate kali by using oracle
+footprinting
+introduction
+types of footprinting
+methods and techniques
+using search engines
+network - intro, detailed body, iana and allotment of ip address, ip4&ip6, ip addresses basic n detecting, ping n ping sweep, ping sweeping tools,nmap commands - common high n whole, trace routing, detecting victim os, detecting firewall, create firewall, counter measures
+social engineering
+ports - types, virtual port no. detecting open ports, tools to carry out port scanning, anti-port scanning tools, port manager, counter measure
+how to give security
+domain names n dns - global dns resolution
+
+
+identifier attacks 
